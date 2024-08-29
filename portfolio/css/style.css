@@ -219,14 +219,14 @@ Works
   display: inline-block;
   max-width: 180px;
   text-align: center;
-  background-color: #293b6a;
+  background-color: #526a29;
   font-size: 16px;
   color: #fff;
   text-decoration: none;
   font-weight: bold;
   padding: 8px 16px;
-  border: 1px dashed #fff;
-  box-shadow: 0px 0px 0px 2px #293b6a;
+  border: 1px solid #fff;
+  box-shadow: 0px 0px 0px 2px #4f6a29;
   /* box-shadowで外枠を */
 }
 
